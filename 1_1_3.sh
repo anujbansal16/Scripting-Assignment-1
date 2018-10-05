@@ -1,0 +1,1 @@
+grep -i '^[aeiou]$\|^[aeiou].*[aeiou]$' /usr/share/dict/words

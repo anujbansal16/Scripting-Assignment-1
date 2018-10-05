@@ -1,0 +1,1 @@
+grep 'aa\+' /usr/share/dict/words

@@ -1,0 +1,1 @@
+grep "^[^A-Z]\{10\}$\|^[^A-Z]\{5\}$" /usr/share/dict/words

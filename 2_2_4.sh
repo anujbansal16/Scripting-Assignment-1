@@ -1,0 +1,1 @@
+sed 's/[[:punct:]]/*/g;s/[0-9]/\?/g' address-book.csv
